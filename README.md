@@ -1,5 +1,7 @@
 # Karttatalkoot
 
+[![Join the chat at https://gitter.im/latutilanne/karttatalkoot](https://badges.gitter.im/latutilanne/karttatalkoot.svg)](https://gitter.im/latutilanne/karttatalkoot?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Tämä projekti sisältää web-sovelluksen, jonka avulla voidaan linkittää
 [OpenStreetMap](http://www.openstreetmap.org/#map=15/60.2715/25.1379&layers=D):stä
 saatavat latu-urat sekä muut hiihtämistä edistävästä meta-tiedot
